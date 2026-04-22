@@ -1,0 +1,4 @@
+# Sample blocked domains
+blocked.example.com
+ads.example.com
+doubleclick.net
